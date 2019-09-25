@@ -39,7 +39,7 @@ Tip: `AssetCleaner`基于`Node.js`开发，所以需要先安装`Node.js`。
 
 如果根目录没有`setings.json`文件，则随便双击某个`.bat`文件，第一次运行时会创建一个第一次运行时会创建seting.json文件，填写setings.json里的参数后，再次运行。
 
-```json
+```
 {
     "find_unused": {
         "desc": "查找未使用的素材", // 描述信息
