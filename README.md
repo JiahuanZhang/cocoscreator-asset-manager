@@ -24,6 +24,8 @@
 
 ## 3. AssetCleaner使用：
 
+  **Tip**: `AssetCleaner`基于`Node.js`开发，所以需要先安装`Node.js`。
+  
   3个bat文件，对应三种功能。
 
 1). `查找未使用文件`。 需要填写`setings.json`里的`find_unused`里的参数。
@@ -32,7 +34,6 @@
 
 3). `根据uuid查找使用的文件`。需要填写`setings.json`里的`find_by_uuid`里的参数。
 
-Tip: `AssetCleaner`基于`Node.js`开发，所以需要先安装`Node.js`。
 
 
 ## 4. setings.json
